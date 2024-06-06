@@ -49,6 +49,8 @@ header{
     display: flex;
     justify-content: space-between;
     padding: 16px 24px;
+    max-width: 1160px;
+    margin-inline: auto;
 }
 
 .assunto{
@@ -239,7 +241,7 @@ main{
         background-size: cover;
         background-repeat: no-repeat;
     }
-    
+
     header{
         margin-block: 81px;
         max-width: 1160px;
